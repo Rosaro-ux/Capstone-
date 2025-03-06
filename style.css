@@ -1,6 +1,16 @@
-H1 {
+h1 {
+    background-image: url("images/pink\ on\ black.avif");
+    background-position: 0 -275px;
+    height:auto;
     text-align: center;
 }
+.banner {
+    height: 50px;
+    max-width: 1200px;
+    background-size:cover;
+    background-position: center;
+    margin:0 auto;
+  }
 h2 {
     text-align: center;
 }
