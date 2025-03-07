@@ -14,17 +14,24 @@ h1 {
 h2 {
     text-align: center;
 }
+#about {
+    background-color:lightpink;
+    color: white;
+  }
 
 body {
     background-color:darkgray;
     text-align: center;
+     }
+            
 }
+
 .intro-paragraph{
     text-align: center;
 }
 
 ul {
-    list-style-type:none
+    list-style-type:none;
 }
 
 footer {
